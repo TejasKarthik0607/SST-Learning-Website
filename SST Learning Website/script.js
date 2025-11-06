@@ -1,0 +1,1 @@
+console.log("Welcome to the SST Learning Hub!");
